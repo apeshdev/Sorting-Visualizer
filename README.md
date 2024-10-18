@@ -3,7 +3,7 @@ This project is built using HTML, CSS, and JS. This project sorting visualizer i
 Sorting Visualizer is a web app for visualizing a bunch of different sorting algorithms Like Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort With the functionality of Speed Control and Array Size Control and there is a Stop button that will stop the sorting of the array.
 
 
-Web-site Link: https://633564a62e232c77d79e89ea--chimerical-creponne-1d730f.netlify.app/
+Web-site Link: [https://sorting-visualizer-omega-fawn.vercel.app/]
 
 
 ![image](https://user-images.githubusercontent.com/114358114/192991870-793c4efd-845c-446c-b432-bf57188f3e4d.png)
